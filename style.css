@@ -1,0 +1,64 @@
+body {
+    font-family: cursive;
+    margin: 0px;
+    font-size: 20px;
+}
+header {
+background-color:#DDA0DD ;
+padding: 10px;
+}
+header a {
+    text-decoration-style:dashed;
+    color:#E6E6FA;
+    font-size: 23px;
+}
+h1 {
+    background-color:LightBlue ;
+    text-align: center;
+    color:rgb(240, 238, 255);
+    text-shadow:rgb(255, 242, 64) 1px 0 10px ;
+    padding: 15px;
+    border-radius: 20px;
+}
+footer p {
+    border:LightSteelBlue solid 5px;
+    padding: 5px;
+}
+nav{
+background-color:white;
+margin:0px ;
+padding: 20px;
+}
+.link {
+background-color: white;
+padding: 5px;
+border-radius: 200px;
+border:MediumBlue solid 2px;
+margin:20px;
+}
+h2 {
+    text-decoration:underline;
+}
+main { 
+background-color:rgb(185, 186, 209);
+margin: 0px;
+}
+.card { 
+background-color: rgb(255, 255, 255);
+padding: 15px;
+margin: 10px;
+border-radius: 5px;
+}
+main h2 {
+color: rgb(102, 92, 146);
+text-shadow:rgb(255, 243, 243) 5px 0px 7px ;
+}
+ main a, p a { 
+background-color: white;
+padding: 5px;
+margin-left :7px;
+text-decoration:none ;
+font-size: 18px;
+border-radius: 11px;
+border:3px dashed rgb(147, 167, 167)
+}
